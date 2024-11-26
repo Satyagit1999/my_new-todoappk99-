@@ -41,15 +41,6 @@ dev_dependencies:
     sdk: flutter
 
 
-flutter_launcher_icons:
-  android: true
-  ios: true
-  image_path: "assets/icon/app-development_2335265.png"
-
-  flutter:
-    uses-material-design: true
-
-
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your
